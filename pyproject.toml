@@ -1,0 +1,11 @@
+
+[project]
+name = "emoji-search-cli" 
+version = "0.1.1" 
+description = "Search and copy emojis directly from the terminal"
+readme = "README.md"
+authors = [{name = "RAJA K"}]
+dependencies = [
+    "emoji",
+    "pyperclip"
+]
